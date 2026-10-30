@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+
+    <!-- Website Title -->
+    <title>CricketZone - DNA cricket academy</title>
+
+    <meta charset="UTF-8">
+
+    <!-- Meta Description -->
+    <meta name="description"
+    content="The best and cricket training academy in salem rhyt now.">
+
+    <!-- Search Engine Indexing -->
+    <meta name="robots" content="index, follow">
+ 
+    <!-- Search Engine Indexing -->
+    <meta name="googlebot" content="index, follow">
+
+    <!-- Author -->
+    <meta name="author" content="DNA academy">
+    
+    <!--language-->
+    <meta name="language" content="english">
+
+    <!-- Meta Keywords -->
+    <meta name="keywords"
+    content="cricket, the best cricket academy , bowling, batting,
+    cricket players, update yourself in cricket">
+    <!-- Open Graph Meta Tags -->
+<meta property="og:title" content="Cricket World - Your Cricket Hub">
+
+<meta property="og:description" content="Get the latest cricket news, match updates, player statistics and cricket training tips.">
+
+<meta property="og:image" content="https://example.com/images/cricket-banner.jpg">
+
+<meta property="og:url" content="https://example.com/cricket">
+
+<meta property="og:type" content="website">
+
+<meta property="og:site_name" content="Cricket World">
+
+<meta property="og:locale" content="en_IN">
+<!-- Twitter Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+
+<meta name="twitter:title" content="Cricket World - Your Cricket Hub">
+
+<meta name="twitter:description" content="Explore cricket news, live match updates, player statistics and training tips.">
+
+<meta name="twitter:image" content="https://example.com/images/cricket-banner.jpg">
+
+<meta name="twitter:site" content="@CricketWorld">
+
+<meta name="twitter:creator" content="@CricketWorld">
+
+   
+
+</head>
+
+<body>
+
+    <h1>Welcome to DNA cricket academy</h1>
+
+    <p>the best cricket academy in salem right now!</p>
+
+</body>
+</html>
